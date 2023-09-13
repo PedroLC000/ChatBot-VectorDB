@@ -1,6 +1,6 @@
 # ChatBot-VectorDB
 
-> A ideia é implementar um ChatBot personalizado baseado em busca com o uso do Chroma e OpenAI Embeddings.
+> A ideia é implementar um ChatBot baseado em busca com o uso do Chroma, OpenAI Embeddings e Streamlit.
 
 ## 🛠️ Requisitos 
 
